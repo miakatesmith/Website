@@ -8,7 +8,7 @@ about:
 
 :::{#me}
 
-###Hello! My name is Mia Smith and I am a master's student at the University of New Hampshire in the Cucurbit Breeding Program.
+Hello! My name is Mia Smith and I am a master's student at the University of New Hampshire in the Cucurbit Breeding Program.
 
 ## Goals
 
