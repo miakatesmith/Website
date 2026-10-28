@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "About Me",
     "section": "",
-    "text": "Thanks for checking out my web site!"
+    "text": "###Hello! My name is Mia Smith and I am a master’s student at the University of New Hampshire in the Cucurbit Breeding Program.\n\n\nAfter completion of my master’s program, I hope to work as a plant breeder.\n\n\n\nI recieved a B.S. from Boston University in 2025.\n\n\n\nIn the summer of 2025, I completed a horticultural internship for the City of Portsmouth at Prescott Park. Following that position, I accepted an offer to fill the role of seasonal research technician for the Cucurbit Breeding Program, which has led to mu pursuance of a masters degree.\nThanks for checking out my web site!"
   },
   {
     "objectID": "projects.html#project-2",
@@ -19,5 +19,26 @@
     "title": "Projects",
     "section": "Project 3",
     "text": "Project 3"
+  },
+  {
+    "objectID": "index.html#goals",
+    "href": "index.html#goals",
+    "title": "About Me",
+    "section": "",
+    "text": "After completion of my master’s program, I hope to work as a plant breeder."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "About Me",
+    "section": "",
+    "text": "I recieved a B.S. from Boston University in 2025."
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "About Me",
+    "section": "",
+    "text": "In the summer of 2025, I completed a horticultural internship for the City of Portsmouth at Prescott Park. Following that position, I accepted an offer to fill the role of seasonal research technician for the Cucurbit Breeding Program, which has led to mu pursuance of a masters degree."
   }
 ]
